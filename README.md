@@ -135,13 +135,6 @@ password=your_password
 
 ---
 
-## Author
-
-Bharanidharan
-GitHub: https://github.com/bharanidharan-2106
-
----
-
 ## Note
 
 This project is developed for learning and demonstration purposes, focusing on backend development concepts and clean code practices.
